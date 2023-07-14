@@ -3,9 +3,9 @@
 This repository contains a collection of Jupyter Notebook files (in the .ipynb format) for the course EE-242 Signal Processing I. These notebooks provide a practical approach to learning signal manipulation and processing concepts through a series of exercises.
 
 ## Table of Contents:
-* [Introduction]()
-* [Installation]()
-* [Usage]()
+* [Introduction](https://github.com/hwangsab/EE-242-Signal-Processing-I/blob/main/README.md#introduction)
+* [Installation](https://github.com/hwangsab/EE-242-Signal-Processing-I/blob/main/README.md#installation)
+* [Usage](https://github.com/hwangsab/EE-242-Signal-Processing-I/blob/main/README.md#usage)
 
 ## Introduction:
 Signal Processing is a fundamental field in electrical engineering that deals with the analysis, manipulation, and interpretation of signals. This repository aims to provide hands-on experience with various signal processing techniques through interactive Jupyter Notebook exercises.
